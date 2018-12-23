@@ -7,7 +7,9 @@
 <div class="js-cling">
   <a class="js-cling-target" href="#">ボタン</a>
 </div>
-```(
+```
 ### javascript
+```html:sample
 let cling = new Cling();  
 cling.onMouseEnterLeave();
+```
