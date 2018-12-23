@@ -8,6 +8,9 @@
   <a class="js-cling-target" href="#">ボタン</a>
 </div>
 ```
+js-cling-target・・・ターゲト要素  
+js-cling・・・ターゲットの寄せ付けられる範囲  
+
 ### javascript
 ```html:sample
 let cling = new Cling();  
