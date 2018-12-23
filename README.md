@@ -3,11 +3,10 @@
 
 ## How to Use
 ### HTML
-[code]
-<div class="js-cling">
-  <a class="js-cling-target" href="#">ボタン</a>
-</div>
-[/code]
+> <div class="js-cling">
+>   <a class="js-cling-target" href="#">ボタン</a>
+> </div>
+
 ### javascript
 let cling = new Cling();  
 cling.onMouseEnterLeave();
